@@ -1,5 +1,6 @@
 ### Hi there 👋, Md Kamrul Hasan
 #### data science enthusiast
+![Machine Learning](https://github.com/HasanMdKamrul/HasanMdKamrul/blob/main/Purple%20Banner%20Lunch%20Menu.png)
 I'm Kamrul Hasan from Germany. I'm a data science enthusiast with prime focus on Machine Learning. I also have couriosity about different technologies such as web development frameworks such as Django. I really enjoy coding, learning new languages and training different ML models also love to learn new algorithms. Currently, studying in University of Rostock in Electrical Engineering.   
 
 Skills: PYTHON / SCIKIT-LEARN/ NUMPY/ PANDAS / TENSORFLOW / MATPLOTLIB / SEABORN / DJANGO / HTML / CSS / VIRTUAL ENVIRONMENTS MANAGEMENT
