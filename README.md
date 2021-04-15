@@ -1,5 +1,5 @@
 # Hi there 👋,
-## DATA SCIENCE ENTHUSIAST
+## PYTHON ENTHUSIAST 
 
 ### Md Kamrul Hasan
 I'm Kamrul Hasan from Germany. I'm a python enthusiast with prime focus on Web development using Django. I also have couriosity about different technologies such as Machine Learning and Deep learning. I really enjoy coding, learning new languages, making new features, learning new technologies in the field of Wed development,deployment and in the field of machine learning as well. Currently, studying in University of Rostock in Electrical Engineering. 
