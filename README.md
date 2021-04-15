@@ -2,23 +2,25 @@
 ## DATA SCIENCE ENTHUSIAST
 
 ### Md Kamrul Hasan
-I'm Kamrul Hasan from Germany. I'm a data science enthusiast with prime focus on Machine Learning. I also have couriosity about different technologies such as web development frameworks such as Django. I really enjoy coding, learning new languages and training different ML models also love to learn new algorithms. Currently, studying in University of Rostock in Electrical Engineering.   
+I'm Kamrul Hasan from Germany. I'm a python enthusiast with prime focus on Web development. I also have couriosity about different technologies such as Machine Learning and Deep learning. I really enjoy coding, learning new languages, making new features, learning new technologies in the field of Wed development,deployment and in the field of machine learning as well. Currently, studying in University of Rostock in Electrical Engineering. 
 
 ### Skills and Experience 
 * Python 
+* Django Framework
+* HTML
+* CSS
 * Scikit learn 
 * Numpy
 * Pandas
 * Tensorflow
 * Matplotlib
 * Seaborn
-* Django
 * Virtual Environments Management
 
-- 🔭 I’m currently working on Self_ML_Projects 
-- 🌱 I’m currently learning Artificial intelligence(ANN,CNN,NLP)  
-- 👯 I’m looking to collaborate on Data Science and AI community 
-- 🤔 I’m looking for help with Deep learning 
+- 🔭 I’m currently working on CRM_Project --> Powered by Django
+- 👯 I’m looking to collaborate on DJANGO Web development   
+- 👯 I’m also looking to collaborate on Data Science and AI community 
+- 🤔 I’m looking for help with Different Deployment technology as well as docker, kubernets 
 - 💬 Ask me about Anything related my workflow 
 - 📫 How to reach me: kamrulhasan@iut-dhaka.edu 
 - ⚡ Fun fact: I love Photography! 
