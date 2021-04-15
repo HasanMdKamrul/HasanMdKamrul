@@ -9,6 +9,8 @@ I'm Kamrul Hasan from Germany. I'm a python enthusiast with prime focus on Web d
 * Django Framework
 * HTML
 * CSS
+* Digitalocean
+* Heroku
 * Scikit learn 
 * Numpy
 * Pandas
