@@ -13,6 +13,7 @@ To see my latest project up and running visit ----> https://my-crm-app-4v6jj.ond
 * CSS
 * Digitalocean
 * Heroku
+* REST
 * Scikit learn 
 * Numpy
 * Pandas
