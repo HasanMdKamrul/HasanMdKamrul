@@ -4,7 +4,7 @@
 ### Md Kamrul Hasan
 I'm Kamrul Hasan from Germany. I'm a python enthusiast with prime focus on Web development using Django. I also have couriosity about different technologies such as Machine Learning and Deep learning. I really enjoy coding, learning new languages, making new features, learning new technologies in the field of Wed development,deployment and in the field of machine learning as well. Currently, studying in University of Rostock in Electrical Engineering. 
 
-To see my latest project up and running visit ----> https://my-crm-app-4v6jj.ondigitalocean.app/
+To see my latest project up and running visit ----> https://my-crm-app-4v6jj.ondigitalocean.app/ (Will get an error due to Subscription over of DigitalOcean )
 
 ### Skills and Experience 
 * Python 
