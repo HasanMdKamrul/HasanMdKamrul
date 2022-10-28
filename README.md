@@ -23,6 +23,10 @@ Hi, I’m Kamrul Hasan. I'm a skilled JS & React developer and have an active in
 - 📫 How to reach me: kamrulhasan@iut-dhaka.edu 
 - ⚡ Fun fact: I love Photography! 
 
+### My Recent Work
+https://mastering-ai-app.web.app/
+* To view more please visit my github repos
+https://github.com/HasanMdKamrul?tab=repositories
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HasanMdKamrul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamrul-hasan-590809171//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kamrulhasan.tanmoy.79/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/xceptionaltanmoy//)  
 
