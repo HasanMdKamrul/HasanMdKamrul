@@ -16,6 +16,9 @@ Hi, I’m Kamrul Hasan. I'm a skilled JS & React developer and have an active in
 * Netlify 
 * Git & Github
 * Vanila JS Dom Manipulations
+* Express Js
+* Mongo Db
+* Node JS
 * Basic Python and Django
 
 - 🔭 To see my works please have a look on my repositories.
